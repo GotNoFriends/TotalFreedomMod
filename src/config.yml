@@ -272,6 +272,9 @@ unbannable_usernames:
   - stampylongnose
   - dantdm
   - gizzy14gazza
+  - ohtekkers
+  - privatefearless
+  - itsrave
 
 # IPs that can not be supered
 noadmin_ips:
